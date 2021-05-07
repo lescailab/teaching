@@ -1,9 +1,4 @@
-# Bitter taste
+# Toll Like Receptor 5
 
-The protein encoded by TAS2R38 is known to be responsible for bitter tasting, and the variant **rs713598** is one of the three variations known to affect our capacity to taste bitter.
-
-Please explain:
-
-- which allele is the dominant tasting allele
-- where in the protein this variant is located
-- use the above information to explain why this variant is affecting our tasting capacity
+Please describe the protein encoded by the gene TLR5 at a protein level.
+Use the tools you prefer to identify any potential protein-protein interactions which might be interesting for Human diseases.

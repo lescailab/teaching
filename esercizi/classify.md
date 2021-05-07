@@ -5,4 +5,4 @@ Use your method of preference to classify it, and show its relationship with oth
 
 ## file to be used
 
-[classify_exercise.fasta]()
+[classify_exercise.fasta](https://raw.githubusercontent.com/lescailab/teaching/main/esercizi/classify_exercise.fasta)
